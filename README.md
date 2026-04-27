@@ -48,3 +48,42 @@ Missing Skills:
 - Machine Learning
 - Tableaue
 - Statistics
+
+
+
+
+# 🧠 AI Skill Assessment Agent
+
+## 📌 Overview
+
+This project is an AI-powered application that analyzes resumes and evaluates candidate skills based on job requirements.
+
+## 🚀 Features
+
+* Resume parsing (PDF/DOCX)
+* Skill extraction
+* AI-based scoring
+* Interactive Streamlit UI
+
+## 🛠 Tech Stack
+
+* Python
+* Streamlit
+* OpenAI API
+* PyPDF2
+* python-docx
+
+## ⚙️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## 🌐 Live Demo
+
+[https://ai-skill-assessment-agent-bzz7rbnrbtkyp7zo4sqtdq.streamlit.app/]
+
+## 📹 Demo Video
+
+[https://drive.google.com/file/d/1DHLispwyR9k4TDNj9Ldjoi6bEd1737lM/view?usp=sharing]
